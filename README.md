@@ -1,1 +1,2 @@
-# cmpt280
+# cmpt280 (2017 winter with Mark)
+# slides, codes, notes
