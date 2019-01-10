@@ -1,0 +1,39 @@
+NAME: HONGYI XUE
+STUDENT #: 11187674
+COURSE #: cpmt280
+
+Assignment3 SkillTree TESTING output
+=========================================================================================
+
+1: nature-style, Cost: 1
+     2: light-style, Cost: 1
+          3: fire-style, Cost: 2
+               4: lava-style, Cost: 5
+               4: - 
+          3: wind-style, Cost: 2
+          3: sound-style, Cost: 2
+     2: ground-style, Cost: 1
+          3: soil-style, Cost: 2
+          3: sand-style, Cost: 3
+          3: - 
+     2: water-style, Cost: 1
+          3: diving-style, Cost: 2
+          3: fog-style, Cost: 3
+          3: - 
+Dependencies of lava-style attack is: 
+nature-style, Cost: 1, light-style, Cost: 1, fire-style, Cost: 2, lava-style, Cost: 5, 
+Dependencies of sand-style attack is: 
+nature-style, Cost: 1, ground-style, Cost: 1, sand-style, Cost: 3, 
+Dependencies of ground-style attack is: 
+nature-style, Cost: 1, ground-style, Cost: 1, 
+Fake skill not found
+To get lava-style attack you must invest: 
+9 points
+To get sand-style attack you must invest: 
+5 points
+To get ground-style attack you must invest: 
+2 points
+Fake skill not found 
+
+
+Process finished with exit code 0
